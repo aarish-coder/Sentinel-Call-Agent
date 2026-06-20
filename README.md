@@ -13,3 +13,5 @@ An automated backend-driven emergency call router that bypasses Android's silent
 * **Database:** SQLite3
 * **Automation:** MacroDroid (Android)
 * **Regex Optimization:** Handles country code prefixes (`+91`, `91`) seamlessly.
+## 🚀 Local Deployment Setup
+
